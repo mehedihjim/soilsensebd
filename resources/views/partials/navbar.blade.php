@@ -29,7 +29,7 @@
     </div>
     
     <!-- Mobile Menu -->
-    <div id="mobile-menu" class="md:hidden hidden bg-green-900 bg-opacity-95 backdrop-blur-sm transition-all duration-300 ease-in-out">
+    <div id="mobile-menu" class="md:hidden hidden bg-green-90/60 bg-opacity-95 backdrop-blur-sm transition-all duration-300 ease-in-out">
         <div class="container mx-auto px-4 py-4">
             <ul class="text-white font-medium space-y-3">
                 <li><a href="#home" class="block py-3 px-2 hover:bg-green-800 rounded transition duration-300">Home</a></li>

@@ -10,8 +10,7 @@ window.addEventListener("scroll", () => {
         navbar.classList.remove("bg-transparent");
     } else {
         navbar.classList.remove(
-            "bg-green-900",
-            "bg-opacity-80",
+            "bg-green-900/60",
             "backdrop-blur-sm",
             "shadow-lg"
         );
